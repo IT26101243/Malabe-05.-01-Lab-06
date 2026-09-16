@@ -14,6 +14,6 @@ public class IT26101243Lab6Q1 {
         System.out.println("The square of " + num + " is: " + square);
         System.out.println("The square root of " + num + " is: " + squareRoot);
 
-        scanner.close();
+        
     }
 }
