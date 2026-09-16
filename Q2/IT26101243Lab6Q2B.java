@@ -14,7 +14,6 @@ public class IT26101243Lab6Q2B {
         int count = 1;
         while (count <= 10) {
 
-            // Use println so each prompt appears on a new line
 
             System.out.print("Enter number " + count + ":");
             int num = scanner.nextInt();
